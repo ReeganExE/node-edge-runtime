@@ -1,5 +1,10 @@
 # Edge Runtime Adapter for Node.js
 
+## ⚠️ Deprecated.
+Use [npmjs.com/package/node-edge-server](https://www.npmjs.com/package/node-edge-server) instead.
+
+----
+
 > Sharing the same code between node and other edge runtimes (Deno, Cloudflare workers, Bun, ...)
 
 ```ts
